@@ -2,7 +2,7 @@
 Aplicación simple de lista de compras desarrollada con React Native que permite agregar ítems, eliminarlos y marcarlos como comprados. 
 
 
-## Preview:
+## Capturas de pantalla:
 
 ![Preview1](https://user-images.githubusercontent.com/80421327/114424729-c81df580-9b8e-11eb-9d2f-c18f898a341f.jpeg)
 
