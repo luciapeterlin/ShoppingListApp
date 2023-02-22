@@ -1,6 +1,6 @@
 # ShoppingListApp
 
-Simple mobile app built with React Native that allows you to add, remove and mark items as purchased.
+Simple mobile app built with React Native that allows you to add, remove and check items as purchased.
 
 
 ## Previews:
